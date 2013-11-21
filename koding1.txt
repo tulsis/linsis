@@ -1,0 +1,202 @@
+    1  elinks
+    2  elinks www.google.com
+    3  sudo apt-get install elinks
+    4  elinks www.google.com
+    5  elinks www.facebook.com
+    6  ssh
+    7  ssh 172.18.2.100
+    8  ssh-keygen 
+    9  cd /home/tulsis/
+   10  ls
+   11  cd .ssh
+   12  ls
+   13  cat id_rsa.pub 
+   14  hostname
+   15  cat id_rsa
+   16  vi authorized_keys
+   17  sudo apt-cache search puppet*
+   18  ifconfig
+   19  dpkg -l apache*
+   20  service apache2 status
+   21  hostname ubuntu
+   22  sudo hostname ubuntu
+   23  vi /etc/sysconfig/network
+   24  cd /etc/sysconfig/
+   25  sudo service apache2 restart
+   26  clear
+   27  sudo tail -n 50 /var/log/syslog
+   28  sudo tail -n 50 /var/log/syslogsudo nano /etc/apache2/sites-enabled/default
+   29  sudo nano /etc/apache2/sites-enabled/default
+   30  hostname
+   31  elinks www.cricinfo.com
+   32  unam -a
+   33  uname -a
+   34  lsb_release -a
+   35  startx
+   36  init 5
+   37  sudo init 5
+   38  runlevel
+   39  sudo init 5
+   40  sudo startx
+   41  cat /etc/grub.con
+   42  cat /etc/grub.conf
+   43  locate grub
+   44  ls
+   45  cd Web
+   46  ls
+   47  python python.py
+   48  dmidecode
+   49  sudo dmidecode
+   50  df -h
+   51  elinks www.cricinfo.com
+   52  sudo apt-get install plex
+   53  pssswd
+   54  passswd
+   55  passwd tulsis 
+   56  vi .bash_history
+   57  init 1
+   58  sud
+   59  sudo apt-get install plex
+   60  sudo init 1
+   61  sudo apt-get install chef
+   62  chef
+   63  sudo apt-get install filters
+   64  apport
+   65  sudo apt-get install apport
+   66  sudo apt-get install ansible
+   67  sudo apt-cache search chef
+   68  sudo apt-get install chef
+   69  ls
+   70  uptime
+   71  date
+   72  kdump
+   73  sudo apt-get kexec -tools
+   74  sudo apt-get kexec-tools
+   75  sudo apt-get install kexec-tools
+   76  service kdump status
+   77  service kdump strt
+   78  service kdump start
+   79  vi /etc/kdump.conf
+   80  crash
+   81  sudo /etc/init.d/kdump start
+   82  sudo /etc/init.d/kdump status
+   83  locate grub.conf
+   84  updatedb &
+   85  sudo updatedb
+   86  sudo locate grub.conf
+   87  sudo update-grub
+   88  sudo update2-grub
+   89  locate update
+   90  locate update2
+   91  locate grub
+   92  date
+   93  git remote add origin tulsis@git:vim.get
+   94  git remote add origin linsis@tulsis:vim.get
+   95  git remote add origingit@linsis:vim.get
+   96  git remote add origin git@linsis:vim.get
+   97  git remote add origin tulsis@linsis:vim.get
+   98  git remote add origin git@github.com:tulsis/linsis.git:vim.get
+   99  git remote add git@github.com:tulsis/linsis.git:vim.git
+  100  vcsh init vime
+  101  vcsh init vim
+  102  vcsh vim add ~/.vimrc ~/.vim
+  103  vcsh vim commit -m "initial commit of my vim config":
+  104  vcsh vim commit -m "initial commit of my vim config"
+  105  vcsh vim commit -m 'initial commit of my vim config'
+  106  vcsh vim commit -m 'initi'
+  107  git config --global user.name "tulsis"
+  108  git config --global user.email "robinsondear@gmail.com
+  109  "
+  110  git commit --amend --reset-author
+  111  vcsh vim commit -m 'initi'
+  112  vcsh init vim
+  113  vcsh vim remote add origin git@github.com:tulsis/linsis.git
+  114  vcsh vim push origin master
+  115  sudo vcsh vim push origin master
+  116  ssh-keygen -t rsa -R robinsondear@gmail.com
+  117  ssh-keygen -t rsa 
+  118  cat ~/.ssh/id_rsa.pub 
+  119  sudo vcsh vim push origin master
+  120  vcsh vim push origin master
+  121  git push
+  122  vcsh vim push -u  origin master
+  123  git pull
+  124  ls -a
+  125  cd .vimrc
+  126  cd .vim/
+  127  vcsh vim push -u  origin master
+  128  git push -u origin master
+  129  cd .vim/
+  130  git push -u origin master
+  131  cd
+  132  ls
+  133  cd Backup/
+  134  ls
+  135  cd
+  136  cd Web/
+  137  ls
+  138  cd 
+  139  cd /home/tulsis/
+  140  ls
+  141  pwd
+  142  ls -a
+  143  cd .vim/
+  144  ls
+  145  git push -u origin master
+  146  vcsh init vim
+  147  cd
+  148  cd /home/tulsis/.config/vcsh
+  149  ls
+  150  cd repo.d/
+  151  ls
+  152  vcsh init vim
+  153  git push -u origin master
+  154  git status
+  155  cd
+  156  git init
+  157  vcsh init vim
+  158  vcsh vim add ~/.vimrc ~/.vim
+  159  vcsh vim commit -m " vim commit"
+  160  vcsh vim commit -m " vim "
+  161  cd .vim/
+  162  ls
+  163  vcsh vim commit -m " vim "
+  164  git push -u origin master
+  165  git vim push -u origin master
+  166  cd
+  167  git add .
+  168  git vim push -u origin master
+  169  git push -u origin master
+  170  history
+  171  history > koding.txt
+  172  git add koding.txt
+  173  git remote add origin master
+  174  git push -u origin master
+  175  git add .vimrc
+  176  git commit -m "git branch vim and vcsh"
+  177  git remote add origin git@github.com:tulsis/linsis.git:vim.git
+  178  git push -u orgin master
+  179  git push orgin master
+  180  vcsh vim  remote add origin git@github.com:tulsis/linsis.git:vim.git
+  181  vcsh vim push -u origin master
+  182  git pull origin master
+  183  vcsh vim push -u origin master
+  184  ls
+  185  vcsh vim push
+  186  git push -f 
+  187  vcsh init postfix
+  188  ls -a
+  189  git add .
+  190  git push origin master
+  191  git add *
+  192  git push origin master
+  193  git checkout master
+  194  git add .
+  195  git push origin master
+  196  git push origin master -f
+  197  ls
+  198  git add her* koding* tu* 
+  199  git commit -m "back to future"
+  200  git push origin master
+  201  history . koding1.txt
+  202  history > koding1.txt
