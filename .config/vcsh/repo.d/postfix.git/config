@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	worktree = /home/tulsis
+	excludesfile = .gitignore.d/postfix
+[vcsh]
+	vcsh = true

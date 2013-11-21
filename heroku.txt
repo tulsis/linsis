@@ -1,0 +1,353 @@
+    1  ls
+    2  kvm
+    3  qemu
+    4  qemu-system-i386 
+    5  sudo apt-cache search virt-manager
+    6  sudo apt-cache search virt-*
+    7  sudo apt-cache search virt-/*
+    8  sudo apt-cache search virt-\*
+    9  sudo apt-get install virt-manager
+   10  sudo virt-manager
+   11  sudo firefox
+   12  sudo gedit .xmonad/xmobar.hs
+   13  sudo gedit .xmonad/xmonad.hs
+   14  exit
+   15  sudo gedit .xmonad/xmonad.hs
+   16  sudo vi .xmonad/xmonad.hs
+   17  hei
+   18  sudo
+   19  exit
+   20  sudo vi .xmonad/xmonad.hs
+   21  sudo gedit .xmonad/xmonad.hs
+   22  sudo apt-get install roxterm
+   23  tulsi
+   24  ls
+   25  exit
+   26  sudo gedit .xmonad/xmobarrc
+   27  sudo firefox
+   28  pwd
+   29  sudo firefox
+   30  curl
+   31  tail -f /var/log/Xorg.0.log
+   32  xmonad --recompile
+   33  ls
+   34  init 3
+   35  sudo init 3
+   36  telinit q
+   37  sudo telinit q
+   38  init 3
+   39  init 5
+   40  sudo init 5
+   41  ls
+   42  sudo dpkg-reconfigure lightdm
+   43  starx
+   44  startx
+   45  sudo dpkg-reconfigure lightdm
+   46  sudo service apparmor status
+   47  sudo update-rc.d apparmor remove
+   48  sudo update-rc.d apparmor stop
+   49  sudo update-rc.d apparmor remove
+   50  sudo update-rc.d apparmor remove -f
+   51  sudo /etc/init.d/apparmor status
+   52  sudo /etc/init.d/apparmor stop
+   53  sudo /etc/init.d/apparmor teardown
+   54  sudo /etc/init.d/apparmor status
+   55  sudo /etc/init.d/apparmor remove
+   56  sudo /etc/init.d/apparmor status
+   57  sudo /etc/init.d/bluetooth remove
+   58  sudo /etc/init.d/bluetooth status
+   59  sudo /etc/init.d/bluetooth stop
+   60  sudo /etc/init.d/bluetooth status
+   61  sudo /etc/init.d/bluetooth remove
+   62  sudo service bluetooth stop
+   63  sudo service rpcbind status
+   64  sudo service portmap status
+   65  sudo service portmap stop
+   66  sudo update-rc.d bluetooth remove
+   67  sudo update-rc.d bluetooth remove -f
+   68  sudo update-rc.d portmap remove
+   69  sudo update-rc.d portmap remove -f
+   70  ls -lah
+   71  cat .xsession-errors
+   72  sudo apt-get install update
+   73  ls -al /home/tulsi | grep virt-manager
+   74  sudo virt-manager
+   75  service libvirtd status
+   76  service libvirt status
+   77  sudo apt-get install libvirt
+   78  sudo apt-cache search libvirt
+   79  sudo find / -name ".*iso"
+   80  sudo find / -name "*iso"
+   81  sudo add-apt-repository ppa:canonical-qt5-edgers/qt5-proper && sudo add-apt-repository ppa:ubuntu-sdk-team/ppa && sudo apt-get update && sudo apt-get install ubuntu-sdk
+   82  sudo apt-get update --fix-missing
+   83  start
+   84  startpar
+   85  notify-send 
+   86  dpkg -l | grep linux-image
+   87  sudo apt-get purge linux-image-3.8.0-16
+   88  uname -r
+   89  sudo apt-get purge linux-image-3.8.0-17-generic
+   90  dpkg -l | grep linux-image
+   91  sudo apt-get purge linux-image-3.8.0-18-generic 
+   92  uname -r
+   93  df -h
+   94  sudo update-grub2
+   95  fdisk -l
+   96  sudo fdisk -l
+   97  sudo fdisk /dev/sda
+   98  sudo firefox
+   99  sudo virt-manager
+  100  locate media
+  101  df -h
+  102  sudo find /media/tulsi/Seagate\ Expansion\ Drive  -name "*.iso"
+  103  sudo chmod 777 /media/tulsi/Seagate\ Expansion\ Drive/Home/Downloads/linuxmint-14.1-cinnamon-dvd-64bit\ \(1\).iso
+  104  sudo virt-manager
+  105  sudo vi /etc/grub.d/40_custom
+  106  sudo vi /etc/default/grub
+  107  sudo apt-cache search zenoss
+  108  sudo apt-get install mysql-server mysql-client libmysqlclient15-dev python2.4 python2.4-dev build-essential snmp snmpd autoconf swig svn-buildpackage
+  109  sudo shutdown -h now
+  110  exit
+  111  sudo rhythmbox
+  112  history | grep desktop
+  113  bash
+  114  fdsik -l
+  115  sudo fdisk -l
+  116  df -h
+  117  sudo apt-get install gparted
+  118  sudo gparted
+  119  ~/.config/google-chrome/Default/Extensions/odjhifogjcknibkahlpidmdajjpkkcfn
+  120  tor-browser_en-US/start-tor-browser
+  121  sudo firefox
+  122  sudo apt-cache search nessus
+  123  sudo apt-get install openvas-server
+  124  sudo openvas-adduser tulsi
+  125  sudo openvasd
+  126  sudo rhythmbox
+  127  sudo openvas-adduser tulsiesex
+  128  sudo rhythmbox
+  129  ls
+  130  sudo apt-cache search aircrack-ng
+  131  sudo apt-get install aircrack-ng
+  132  sudo aircrack-ng
+  133  sudo aircrack-ng --help
+  134  airmon-ng start
+  135  sudo airmon-ng start
+  136  sudo airmon-ng check
+  137  sudo airmon-ng start rausb 11
+  138  sudo airmon-ng start rausb ll
+  139  sudo dpkg -i Downloads/Nessus-5.2.1-ubuntu1110_i386.deb
+  140  cd /opt/nessus/bin
+  141  locate nessus-*
+  142  ./nessus-adduser
+  143  cd ..
+  144  ls
+  145  cd /etc
+  146  ls
+  147  cd .
+  148  cd ..
+  149  cd
+  150  cd /opt/nessus/etc
+  151  ls
+  152  ./nessus
+  153  ls
+  154  cd
+  155  service nessusd status
+  156  service nessusd start
+  157  sudo service nessusd start
+  158  sudo ln -fs /etc/init.d/nessusd /etc/rc2.d/S20nessusd
+  159  sudo /etc/init.d/nessusd restart
+  160  sudo gedit /usr/share/applications/Nessus.desktop
+  161  sudo apt-get install gnome-session-fallback
+  162  sudo apt-get install python-gmenu classicmenu-indicator
+  163  sudo gnome-session-xmonad
+  164  sudo service nessusd status
+  165  locate nessus*
+  166  locate nessus\*
+  167  locate nessus/*
+  168  bash
+  169  cd /opt/nessus/bin
+  170  ls
+  171  sudo nessus-fetch --register 1f3a567ef6c6a149698275065db402397ff6a723
+  172  sudo ./nessus-fetch --register 1f3a567ef6c6a149698275065db402397ff6a723
+  173  sudo ./nessus-fetch --register 1192-08CD-F51A-D0B2-FE81
+  174  sudo service nessusd status
+  175  sudo service nessusd restart
+  176  cd /opt/nessus/bin
+  177  ls
+  178  cd ../sbin
+  179  ls
+  180  sudo ./nessus-update-plugins
+  181  ls
+  182  sudo ./nessus-update-plugins
+  183  sudo apt-get upgrade
+  184  sudo apt-get upgrade --fix-missing
+  185  df -h
+  186  cd /
+  187  ls
+  188  du -sh
+  189  sudo du -sh
+  190  sudo du 
+  191  sudo apt-get clean
+  192  df -h
+  193  history | grep dpkg
+  194  dpkg -l | grep linux-image
+  195  uname -a
+  196  dpkg -r linux-headers-3.8.0-16
+  197  sudo dpkg -r linux-headers-3.8.0-16
+  198  sudo dpkg -r linux-headers-3.8.0-17-generic
+  199  history 
+  200  history  |less
+  201  sudo apt-get purge linux-headers-3.8.0-16
+  202  df -h
+  203  cd /
+  204  ls
+  205  ls -ltr
+  206  cd /root
+  207  ls
+  208  du -h
+  209  du -h | sort -r |uniq -c | less
+  210  sudo du -h | sort -r |uniq -c | less
+  211  sudo apt-get purge linux-headers-3.8.0-16
+  212  sudo du -h | sort -r |uniq -c | less
+  213  history |less
+  214  sudo apt-get purge linux-headers-3.8.0-16  
+  215  find / -fsize +1G 
+  216  find / -size +1G 
+  217  sudo find / -size +1G 
+  218  sudo find / -size +100M
+  219  sudo rm /var/lib/libvirt/images/* -rf
+  220  sudo rm /var/lib/libvirt/images/Mint.img -rf
+  221  df -h
+  222  sudo rm /var/lib/libvirt/images/MINT.img -rf
+  223  df -h
+  224  exit
+  225  df -h
+  226  shutdown -h now
+  227  sudo shutdown -h now
+  228  sudo vi /etc/default/apport
+  229  ssh 202.147.18.99
+  230  ssh 208.64.123.142
+  231  ssh 61.14.185.84
+  232  ssh 202.147.18.100
+  233  ssh 202.147.2.100
+  234  ssh 61.14.185.84
+  235  ssh 212.113.16.212
+  236  ssh 124.243.127.170
+  237  ssh 212.113.16.114
+  238  ssh 202.147.19.3
+  239  history | grep ssh
+  240  bash
+  241  service lightdm  restart
+  242  sudo service lightdm  restart
+  243  reboot -f
+  244  sudo reboot -f
+  245  sudo firefox
+  246  dpkg -l python
+  247  python
+  248  sudo apt-get install python-pip
+  249  pip install sh
+  250  sudo firefox
+  251  python
+  252  pip install sh
+  253  python
+  254  sudo pip install sh
+  255  python
+  256  git status
+  257  sudo git status
+  258  ls
+  259  cd gitex
+  260  ls
+  261  git status
+  262  ls
+  263  ls ***
+  264  ls ***/
+  265  echo $SHELL
+  266  git clone git://github.com/pykih/reader.git
+  267  ls
+  268  cd reader
+  269  ls
+  270  cp -r  db/first_migrate/* db/migrate
+  271  rake db:migrate
+  272  rails s
+  273  rake
+  274  sudo apt-get install rake
+  275  rake db:migrate
+  276  cd db
+  277  rake db:migrate
+  278  cd migrate
+  279  rake db:migrate
+  280  rails s
+  281  cd
+  282  cd gitex
+  283  ls
+  284  mkdir stringer
+  285  git clone git://github.com/swanson/stringer.git
+  286  cd stringer
+  287  ls
+  288  heroku create
+  289  sudo apt-get install heroku
+  290  git push heroku master
+  291  ls
+  292  hearoku create
+  293  wget -qO- https://toolbelt.heroku.com/install-ubuntu.sh | sh
+  294  cd gitex
+  295  ls
+  296  cd stringer
+  297  ls
+  298  heroku create
+  299  git push heroku master
+  300  heroku config:set SECRET_TOKEN=`openssl rand -hex 20`
+  301  heroku run rake db:migrate
+  302  heroku restart
+  303  heroku addons:add scheduler
+  304  heroku addons:open scheduler
+  305  heroku addons:add scheduler
+  306  heroku addons:open scheduler
+  307  heroku open
+  308  heroku addons:add scheduler:standard 
+  309  heroku addons:open scheduler
+  310  heroku addons:add scheduler:standard 
+  311  heroku open
+  312  ls
+  313  cd screenshots
+  314  ls
+  315  sudo mshortname feed.png
+  316  cd gitex
+  317  git clone git://github.com/pykih/reader.git
+  318  ls
+  319  rm stringer/* -rf
+  320  ls
+  321  rm stringer/* -rf
+  322  ls
+  323  rm -rf stringer
+  324  ls
+  325  cd reader
+  326  ls
+  327  rake db:migrate
+  328  cd
+  329  cd -
+  330  cd ..
+  331  ls
+  332  rm -rf reader
+  333  git clone git://github.com/pykih/reader.git
+  334  cd reader
+  335  ls
+  336  cd db/first_migrate
+  337  ls
+  338  cp * ../migrate
+  339  rake db:migrate
+  340  ruby 20130609123546_first_migration.rb
+  341  ls
+  342  cd
+  343  ls
+  344  heroku start
+  345  heroku restart
+  346  heroku help
+  347  heroku login
+  348  ls
+  349  vi Downloads/bash_history
+  350  vi -N Downloads/bash_history
+  351  ls
+  352  cd gitex
+  353  ls

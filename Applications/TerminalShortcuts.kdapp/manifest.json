@@ -1,0 +1,41 @@
+{
+  "devMode": false,
+  "authorNick": "stefanbc",
+  "multiple": false,
+  "background": false,
+  "hiddenHandle": false,
+  "openWith": "lastActive",
+  "behavior": "application",
+  "version": "0.1",
+  "name": "TerminalShortcuts",
+  "identifier": "com.koding.apps.terminalshortcuts",
+  "path": "~/Applications/TerminalShortcuts.kdapp",
+  "homepage": "https://github.com/stefanbc/TerminalShortcuts.kdapp",
+  "author": "Stefan Cosma",
+  "repository": "git://github.com/stefanbc/TerminalShortcuts.kdapp.git",
+  "description": "TerminalShortcuts : a Koding application for commonly used Terminal shortcuts.",
+  "category": "miscellaneous",
+  "source": {
+    "blocks": {
+      "app": {
+        "files": [
+          "./index.coffee"
+        ]
+      }
+    },
+    "stylesheets": [
+      "./resources/style.css"
+    ]
+  },
+  "options": {
+    "type": "tab"
+  },
+  "icns": {
+    "128": "./resources/icon.128.png",
+    "256": "./resources/icon.256.png"
+  },
+  "screenshots": [
+    "./resources/screenshot.png"
+  ],
+  "menu": []
+}

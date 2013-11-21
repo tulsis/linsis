@@ -1,0 +1,136 @@
+    1  elinks
+    2  elinks www.google.com
+    3  sudo apt-get install elinks
+    4  elinks www.google.com
+    5  elinks www.facebook.com
+    6  ssh
+    7  ssh 172.18.2.100
+    8  ssh-keygen 
+    9  cd /home/tulsis/
+   10  ls
+   11  cd .ssh
+   12  ls
+   13  cat id_rsa.pub 
+   14  hostname
+   15  cat id_rsa
+   16  vi authorized_keys
+   17  sudo apt-cache search puppet*
+   18  ifconfig
+   19  dpkg -l apache*
+   20  service apache2 status
+   21  hostname ubuntu
+   22  sudo hostname ubuntu
+   23  vi /etc/sysconfig/network
+   24  cd /etc/sysconfig/
+   25  sudo service apache2 restart
+   26  clear
+   27  sudo tail -n 50 /var/log/syslog
+   28  sudo tail -n 50 /var/log/syslogsudo nano /etc/apache2/sites-enabled/default
+   29  sudo nano /etc/apache2/sites-enabled/default
+   30  hostname
+   31  elinks www.cricinfo.com
+   32  unam -a
+   33  uname -a
+   34  lsb_release -a
+   35  startx
+   36  init 5
+   37  sudo init 5
+   38  runlevel
+   39  sudo init 5
+   40  sudo startx
+   41  cat /etc/grub.con
+   42  cat /etc/grub.conf
+   43  locate grub
+   44  ls
+   45  cd Web
+   46  ls
+   47  python python.py
+   48  dmidecode
+   49  sudo dmidecode
+   50  df -h
+   51  elinks www.cricinfo.com
+   52  sudo apt-get install plex
+   53  pssswd
+   54  passswd
+   55  passwd tulsis 
+   56  vi .bash_history
+   57  init 1
+   58  sud
+   59  sudo apt-get install plex
+   60  sudo init 1
+   61  sudo apt-get install chef
+   62  chef
+   63  sudo apt-get install filters
+   64  apport
+   65  sudo apt-get install apport
+   66  sudo apt-get install ansible
+   67  sudo apt-cache search chef
+   68  sudo apt-get install chef
+   69  ls
+   70  uptime
+   71  date
+   72  kdump
+   73  sudo apt-get kexec -tools
+   74  sudo apt-get kexec-tools
+   75  sudo apt-get install kexec-tools
+   76  service kdump status
+   77  service kdump strt
+   78  service kdump start
+   79  vi /etc/kdump.conf
+   80  crash
+   81  sudo /etc/init.d/kdump start
+   82  sudo /etc/init.d/kdump status
+   83  locate grub.conf
+   84  updatedb &
+   85  sudo updatedb
+   86  sudo locate grub.conf
+   87  sudo update-grub
+   88  sudo update2-grub
+   89  locate update
+   90  locate update2
+   91  locate grub
+   92  date
+   93  git push -u origin master
+   94  cd .vim/
+   95  git push -u origin master
+   96  cd
+   97  ls
+   98  cd Backup/
+   99  ls
+  100  cd
+  101  cd Web/
+  102  ls
+  103  cd 
+  104  cd /home/tulsis/
+  105  ls
+  106  pwd
+  107  ls -a
+  108  cd .vim/
+  109  ls
+  110  git push -u origin master
+  111  vcsh init vim
+  112  cd
+  113  cd /home/tulsis/.config/vcsh
+  114  ls
+  115  cd repo.d/
+  116  ls
+  117  vcsh init vim
+  118  git push -u origin master
+  119  git status
+  120  cd
+  121  git init
+  122  vcsh init vim
+  123  vcsh vim add ~/.vimrc ~/.vim
+  124  vcsh vim commit -m " vim commit"
+  125  vcsh vim commit -m " vim "
+  126  cd .vim/
+  127  ls
+  128  vcsh vim commit -m " vim "
+  129  git push -u origin master
+  130  git vim push -u origin master
+  131  cd
+  132  git add .
+  133  git vim push -u origin master
+  134  git push -u origin master
+  135  history
+  136  history > koding.txt
